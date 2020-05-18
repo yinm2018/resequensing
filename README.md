@@ -6,3 +6,4 @@
 
 - 搞事1
 - 搞事2
+- [perl](https://github.com/yinm2018/resequensing/blob/master/practise.pl)
