@@ -1,8 +1,8 @@
-# Whole-genome Resequensing
+# Whole-genome Resequencing
 
 Pleses Wait
 
-## Demographic history simulation
+## Demographic History Simulation
 fastsimcoal26
 
 ## Selection Sweeps
