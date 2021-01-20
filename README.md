@@ -1,9 +1,12 @@
-# resequensing
+# Whole-genome Resequensing
 
-## 尹谋开始搞事情了
+Pleses Wait
 
-日常搞事
+## Demographic history simulation
+fastsimcoal26
 
-- 搞事1
-- 搞事2
+## Selection Sweeps
+
+
+
 - [perl](https://github.com/yinm2018/resequensing/blob/master/practise.pl)
